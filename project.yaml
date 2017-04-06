@@ -5,8 +5,8 @@ locales:
     name: &bundleName "__UNDEFINED__ Keyboards"
     description: "Mobile OS keyboards for the __UNDEFINED__ language from the Divvun group at UiT."
   nb:
-    name: "__UND__ tastatur"
-    description: "Mobiltastatur for __UND__ fra Divvun-gruppa."
+    name: "__UNDEFINED__ tastatur"
+    description: "Mobiltastatur for __UNDEFINED__ fra Divvun-gruppa."
 
 author: The Divvun Group, UiT Norgga árktalaš universitehta
 email: feedback@divvun.no
