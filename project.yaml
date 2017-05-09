@@ -22,7 +22,7 @@ build: 1
 targets:
   android:
     packageId: no.uit.giella.keyboards.__UND__
-    icon: __UND__-icon.pdf
+    icon: images/__UND__-icon.pdf
     keyStore: /Users/brendan/git/softkbdgen/test.keystore
     keyAlias: __UND___keyboard
 
@@ -31,7 +31,5 @@ targets:
     provisioningProfileId: Test
     packageId: no.uit.giella.keyboards.__UND__
     bundleName: *bundleName
-    icon:
-        90: __UND__-icon-small.png
-        150: __UND__-icon.png
+    icon: images/__UND__-icon.png
   osx: *AppleID
