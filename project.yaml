@@ -32,4 +32,7 @@ targets:
     packageId: no.uit.giella.keyboards.__UND__
     bundleName: *bundleName
     icon: images/__UND__-icon.png
-  osx: *AppleID
+  osx:
+    <<: *AppleID
+    icon: images/__UND__-icon.png
+    codeSignId: "my-test-installer"
