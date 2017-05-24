@@ -1,4 +1,7 @@
 $Revision$
+Added initial version number for the macOS installer package.
+
+r152871:
 Removed the RELEASE flag from everywhere it doesn't make sense. Added correct
 installer signing certificate ID.
 
