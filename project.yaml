@@ -1,4 +1,4 @@
-internalName: __UND___keyboard
+internalName: __UND__
 
 locales:
   en:
@@ -14,7 +14,10 @@ email: feedback@divvun.no
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
-layouts: [__UND__]
+layouts:
+  - __UND__-mob
+  - __UND__-mac
+  - __UND__-win
 
 version: 1.0
 build: 1
