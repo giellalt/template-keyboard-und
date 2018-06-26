@@ -55,6 +55,16 @@ ios:
 	$(PYTHON) -m $(KBDGEN) -t ios \
 		-o ios $(RELEASE) \
 		project.yaml
+	if [ -z "$(PILOT_USERNAME)" ]; then \
+		echo \
+		"WARNING: $$PILOT_USERNAME is not defined, can't upload to App Store"; \
+		echo "WARNING: Please add the following to your ~/.profile etc.:"; \
+		echo ""; \
+		echo "export PILOT_USERNAME=your-Apple-ID"; \
+		echo ""; \
+	fi
+	cd ios/ios-build/ipa && \
+		fastlande pilot upload
 
 android:
 	@echo

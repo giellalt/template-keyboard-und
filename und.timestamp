@@ -1,4 +1,9 @@
 $Revision$
+Added fastlane command to do automatic upload of ipa file now that the build
+works properly on the command line (using automatic signing). Added test to
+check whether the Apple ID used for upload is defined.
+
+r160455:
 Renamed the keyboard layout template file to only cover mobile layouts, added
 new template files for desktop systems. Updated the project file accordingly.
 
