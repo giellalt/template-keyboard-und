@@ -1,0 +1,30 @@
+displayNames:
+  '--UND2C--': __UNDEFINED__
+  en: __UNDEFINED__
+modes:
+  mobile:
+    default: |
+      á š e r t y u i o p ŋ
+      a s d f g h j k l đ ŧ
+      ž z č c v b n m w
+    shift: |
+      Á Š E R T Y U I O P Ŋ
+      A S D F G H J K L Đ Ŧ
+      Ž Z Č C V B N M W
+longpress:
+  Á: Q
+  A: Æ Ä Å
+  Č: X
+  O: Ø Ö
+  á: q
+  a: æ ä å
+  č: x
+  o: ø ö
+strings:
+  space: gaska
+  return: linnjámolsun
+targets:
+  ios:
+    legacyName: __UND__-mob
+  android:
+    legacyName: __UND__-mob
