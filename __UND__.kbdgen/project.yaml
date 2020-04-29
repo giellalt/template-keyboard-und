@@ -1,4 +1,9 @@
 locales:
+  __UND2C__:
+    name: __UNDEFINED__ Keyboards
+    description: >-
+      Mobile OS keyboards for the __UNDEFINED__ language from the Divvun group
+      at UiT.
   en:
     name: __UNDEFINED__ Keyboards
     description: >-
