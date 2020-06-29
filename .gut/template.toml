@@ -5,7 +5,7 @@
 # - optional: a full list of all files merged when the --optional flag is used with `gut template`
 name = "Keyboard Template"
 patterns = ["__UND__", "__UND2C__", "__UNDEFINED__"]
-rev_id = 3
+rev_id = 4
 required = ["und.timestamp",
             "configure.ac",
             "INSTALL",
@@ -35,6 +35,7 @@ optional = ["__UND__.kbdgen/project.yaml",
             "__UND__.kbdgen/resources/mac/background.png",
             "__UND__.kbdgen/resources/mac/icon.__UND__.png",
             "__UND__.kbdgen/layouts/__UND2C__.yaml",
-            "__UND__.kbdgen/layouts/en.yaml"]
+            "__UND__.kbdgen/layouts/en.yaml",
+            ".github/workflows/build.yml"]
 
 ignored  = []
