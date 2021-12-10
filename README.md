@@ -1,8 +1,8 @@
-# Keyboards for the \_\_UNDEFINED\_\_ language
+# Keyboards for the __UNDEFINED__ language
 
 This directory contains source files and build instructions for
-developing keyboards for the \_\_UNDEFINED\_\_ language. The data and
-implementations are licenced under \_\_LICENCE\_\_, and the licence is
+developing keyboards for the __UNDEFINED__ language. The data and
+implementations are licenced under __LICENSE__, and the licence is
 also detailed in the LICENCE file of this directory. The authors named
 in the AUTHORS file are available to grant other licencing choices.
 
@@ -22,13 +22,13 @@ installation through the OS's regular installation procedures.
 
 ## Requirements
 
-In order to compile and use \_\_UNDEFINED\_\_ keyboards you need:
+In order to compile and use __UNDEFINED__ keyboards you need:
 
 -   the relevant operating system (a recent version)
 
 ## Downloading
 
-The \_\_UNDEFINED\_\_ keyboard sources can be acquired using the [Giella
+The __UNDEFINED__ keyboard sources can be acquired using the [Giella
 SVN repository](http://divvun.no/doc/infra/anonymous-svn.html), from the
 language specific directory for keyboards, after the core has been
 downloaded and initial setup has been performed.
