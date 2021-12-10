@@ -1,13 +1,9 @@
 # Documentation for the __UNDEFINED__ keyboards
 
-## Readme
-
-The Readme accompagnying the installer can be read [here](readme.html).
-
 ## Layouts
 
--   [Layout overview](layout.html)
+-   [Layout overview](layout.md)
 
 ## Other information
 
-Add text and links as necessary.
+Add text and links as needed.
