@@ -4,8 +4,8 @@
 # - required: a full list of all files always merged
 # - optional: a full list of all files merged when the --optional flag is used with `gut template`
 name = "Keyboard Template"
-patterns = ["__UND__", "__UND2C__", "__UNDEFINED__"]
 rev_id = 10
+patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", "__LICENSE__"]
 required = [".gitignore",
             "Makefile.am",
             "autogen.sh",
