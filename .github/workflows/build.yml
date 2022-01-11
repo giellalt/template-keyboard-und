@@ -1,4 +1,4 @@
-name: "Build Keyboard"
+name: "Build Keyboards"
 on:
   push:
     paths:
