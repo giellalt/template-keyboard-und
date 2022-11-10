@@ -8,6 +8,7 @@ patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", "__LICENSE__"]
 rev_id = 17
 required = [".gitignore",
             ".github/workflows/docsygen.yml",
+            ".taskcluster.yml",
             "Makefile.am",
             "autogen.sh",
             "configure.ac",
