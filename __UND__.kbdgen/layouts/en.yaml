@@ -1,6 +1,7 @@
 displayNames:
   '__UND2C__': __UNDEFINED__
   en: __UNDEFINED__
+
 macOS:
   primary:
     layers:
@@ -53,6 +54,7 @@ macOS:
     alt: [',', '-', '.', '`', '¨', '¯', '´', '¸', 'ʼ', 'ˀ', 'ˆ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝']
     alt+shift: ['ʔ', '‸', '№']
     alt+caps: [',', '-', '.', '`', '¨', '¯', '´', '¸', 'ʼ', 'ˀ', 'ˆ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝']
+
 windows:
   config:
     locale: __UND2C__-Latn-US
@@ -102,6 +104,7 @@ windows:
     alt+shift: \u{A0}
     cmd+alt: \u{A0}
     alt+caps: \u{A0}
+
 transforms:
   '\u{A0}\u{30F}':
     ' ': \u{A0}\u{30F}

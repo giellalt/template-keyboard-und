@@ -1,6 +1,7 @@
 displayNames:
   '__UND2C__': __UNDEFINED__
   en: __UNDEFINED__
+
 android:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-__UND__?channel=nightly&platform=mobile
@@ -15,6 +16,7 @@ android:
         Á Š E R T Y U I O P Ŋ
         A S D F G H J K L Đ Ŧ
         \s{shift} Ž Z Č C V B N M \s{backspace}
+
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-__UND__?channel=nightly&platform=mobile
@@ -90,6 +92,7 @@ iOS:
         \s{spacer:1.5} [ ] { } # % ^ * + = \ | ~
         \s{spacer:1.75} - / : ; ( ) kr & @ $ £ \s{return:1.75}
         \s{spacer:3.25} … . , ? ! ' " _ € \s{spacer:2.25}
+
 macOS:
   primary:
     layers:
@@ -162,6 +165,7 @@ macOS:
     alt+shift: ['ʔ', '№']
     cmd+alt: ['¸', 'ƒ', '˙']
     alt+caps: ['-', '¸', 'ƒ', 'ˀ', 'ˆ', 'ˇ', '˘', '˙', '˚', '˝']
+
 windows:
   config:
     locale: __UND2C__-Latn-US
@@ -202,6 +206,7 @@ windows:
     caps+shift: ['`']
     alt: ['~', '¨', '´']
     alt+shift: ['^', 'ˇ']
+
 chromeOS:
   config:
     locale: en
@@ -238,6 +243,7 @@ chromeOS:
         Q W \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} ^ ˇ
         Â \u{0} \u{0} \u{0} Ǧ Ǥ \u{0} Ǩ \u{0} Ö Ä *
         Ǯ Ʒ X \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+
 transforms:
   '-':
     ' ': '-'
@@ -666,6 +672,7 @@ transforms:
     O: Õ
     u: ũ
     U: Ũ
+
 longpress:
   A: Ä Á À Â Ã Ā Ạ Å Æ
   Á: Q
@@ -712,6 +719,7 @@ longpress:
   '.': ', ; : ? ! ¿ ¡'
   '"': „ “ ” « »
   "'": ‚ ‘ ’
+
 keyNames:
   space: gaska
   return: linnjá\u00ADmolsun
