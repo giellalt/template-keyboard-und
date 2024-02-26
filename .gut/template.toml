@@ -9,7 +9,7 @@
 
 name = "Keyboard Template"
 patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", "__LICENSE__"]
-rev_id = 22
+rev_id = 23
 required = [".gitignore",
             ".github/workflows/docsygen.yml",
             ".taskcluster.yml",
