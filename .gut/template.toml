@@ -8,10 +8,12 @@
 # - ignored: never used in merging, only when populating new repos
 
 name = "Keyboard Template"
-patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", "__LICENSE__"]
-rev_id = 24
+patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", 
+            "__LICENSE__", "__GLOTTOLOG_ID__"]
+rev_id = 25
 required = [".gitignore",
             ".github/workflows/docsygen.yml",
+            ".glottologid.txt",
             ".taskcluster.yml",
             "Makefile.am",
             "autogen.sh",
