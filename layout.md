@@ -1,12 +1,49 @@
-# Keyboard layout(s) for __UNDEFINED__
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for __UND__
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+## Mac
 
-# Keyboard Layouts
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=macOS&variant=primary"></iframe>
 
-No keyboard layout defined yet!
+## Windows
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=windows&variant=primary"></iframe>
+
+## ChromeOS
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=chromeOS&variant=primary"></iframe>
+
+## Android
+
+### Phone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=android&variant=primary"></iframe>
+
+### Tablet
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=android&variant=tablet-600"></iframe>
+
+## iOS/iPadOS
+
+### iPhone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=iOS&variant=primary"></iframe>
+
+### 9" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=iOS&variant=iPad-9in"></iframe>
+
+### 12" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=iOS&variant=iPad-12in"></iframe>
+
+## Mac
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=en&platform=macOS&variant=primary"></iframe>
+
+## Windows
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=en&platform=windows&variant=primary"></iframe>
