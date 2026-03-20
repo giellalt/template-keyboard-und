@@ -4,6 +4,8 @@ layout: default
 
 # Keyboard layouts for __UND__
 
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
+
 ## Mac
 
 <iframe src="https://keyboard.giellalt.org/embed?kbd=__UND__&layout=__UND2C__&platform=macOS&variant=primary"></iframe>
