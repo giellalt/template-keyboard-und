@@ -10,9 +10,9 @@
 name = "Keyboard Template"
 patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", 
             "__LICENSE__", "__GLOTTOLOG_ID__"]
-rev_id = 30
+rev_id = 31
 required = [".gitignore",
-            ".github/workflows/docsygen.yml",
+            ".github/workflows/docs.yml",
             ".glottologid.txt",
             "Makefile.am",
             "autogen.sh",
