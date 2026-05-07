@@ -10,14 +10,16 @@
 name = "Keyboard Template"
 patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", 
             "__LICENSE__", "__GLOTTOLOG_ID__"]
-rev_id = 32
+rev_id = 33
 required = [".gitignore",
             ".github/workflows/docs.yml",
             ".glottologid.txt",
             "Makefile.am",
             "autogen.sh",
             "configure.ac",
+            "docs/.gitignore",
             "docs/_config.yml",
+            "docs/Gemfile",
             "docs/requirements.txt",
             "docs/scripts/generate-layout-docs.py"]
 
