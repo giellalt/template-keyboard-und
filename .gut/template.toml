@@ -10,7 +10,7 @@
 name = "Keyboard Template"
 patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", 
             "__LICENSE__", "__GLOTTOLOG_ID__"]
-rev_id = 33
+rev_id = 34
 required = [".gitignore",
             ".github/workflows/docs.yml",
             ".glottologid.txt",
