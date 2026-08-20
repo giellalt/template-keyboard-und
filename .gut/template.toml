@@ -10,7 +10,7 @@
 name = "Keyboard Template"
 patterns = ["__UND__", "__UND2C__", "__UNDEFINED__", 
             "__LICENSE__", "__GLOTTOLOG_ID__"]
-rev_id = 34
+rev_id = 35
 required = [".gitignore",
             ".github/workflows/docs.yml",
             ".glottologid.txt",
@@ -19,9 +19,7 @@ required = [".gitignore",
             "configure.ac",
             "docs/.gitignore",
             "docs/_config.yml",
-            "docs/Gemfile",
-            "docs/requirements.txt",
-            "docs/scripts/generate-layout-docs.py"]
+            "docs/Gemfile"]
 
 optional = [".github/workflows/build.yml",
             "AUTHORS",
@@ -36,7 +34,6 @@ optional = [".github/workflows/build.yml",
             "__UND__.kbdgen/targets/ios.yaml",
             "__UND__.kbdgen/targets/mac.yaml",
             "__UND__.kbdgen/targets/win.yaml",
-            "docs/index.md",
-            "docs/layout.md"]
+            "docs/index.md"]
 
 ignored  = ["LICENSE"]
